@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Mevinb+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%93%9A;Let's+Code+Something+Amazing!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Mevinb;Full+Stack+Developer;Building+Scalable+Solutions;Always+Learning+New+Tech;Let's+Code+Something+Amazing!)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,7 +37,7 @@ const mevinb = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Building scalable applications with modern tech stack",
-    funFact: "I debug with console.log and I'm not ashamed of it! 🐛"
+    funFact: "I debug with console.log and I'm not ashamed of it!"
 };
 ```
 
@@ -70,7 +70,7 @@ const mevinb = {
 
 <div align="center">
 
-### � Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -80,7 +80,7 @@ const mevinb = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🚀 Frontend Development
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -90,7 +90,7 @@ const mevinb = {
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -99,7 +99,7 @@ const mevinb = {
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -108,7 +108,7 @@ const mevinb = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -117,7 +117,7 @@ const mevinb = {
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-### �️ Tools & Others
+### Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -186,7 +186,7 @@ const mevinb = {
 
 <div align="center">
 
-If you like what I do, maybe consider buying me a coffee? ☕
+If you like what I do, maybe consider buying me a coffee?
 
 <a href="https://buymeacoffee.com/mevinb" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
@@ -218,7 +218,7 @@ If you like what I do, maybe consider buying me a coffee? ☕
 
 <div align="center">
   
-### ⭐ From [Mevinb](https://github.com/Mevinb) with 💖
+### From [Mevinb](https://github.com/Mevinb) with love
 
 <img src="https://komarev.com/ghpvc/?username=Mevinb&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 
@@ -226,6 +226,6 @@ If you like what I do, maybe consider buying me a coffee? ☕
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**"Code is poetry written in logic"** 💻✨
+**"Code is poetry written in logic"**
 
 </div>
