@@ -40,9 +40,12 @@ const mevinb = {
 ## 🔥 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mevinb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mevinb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mevinb&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mevinb&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mevinb&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="180" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mevinb&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -93,7 +96,7 @@ const mevinb = {
 
 ## 📊 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mevinb&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mevinb&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -101,16 +104,7 @@ const mevinb = {
 ## 🐍 Contribution Snake
 <div align="center">
   
-![Snake animation](https://github.com/Mevinb/Mevinb/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-<div align="center">
-  
-[![Spotify](https://novatorem-mevinb.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -169,10 +163,4 @@ If you like what I do, maybe consider buying me a coffee? ☕
 
 **"Code is poetry written in logic"** 💻✨
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
