@@ -1,7 +1,7 @@
+<div align="center">
+
 # 🚀 Welcome to Mevinb's Digital Universe! 
 
-<div align="center">
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+Something+New!)](https://git.io/typing-svg)
 
 </div>
