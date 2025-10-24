@@ -16,7 +16,7 @@
 
 ## About Me
 
-```javascript
+```js
 const mevinb = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
