@@ -22,6 +22,8 @@
 
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
+<img src="https://media1.tenor.com/m/YQLoyk6eFV8AAAAd/sabrina-carpenter-kiss.gif" width="300"/>
+
 </div>
 
 ### 👨‍💻 Who Am I?
