@@ -1,5 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Mevinb's%20Universe&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
+  <img width="100%" src="https://media1.tenor.com/m/YQLoyk6eFV8AAAAd/sabrina-carpenter-kiss.gif" height="200"/>
+  
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+    <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7); margin: 0;">Welcome to Mevinb's Universe</h1>
+    <p style="color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.7); margin: 5px 0;">Full Stack Developer | Problem Solver | Tech Enthusiast</p>
+  </div>
 </div>
 
 <div align="center">
@@ -21,8 +26,6 @@
 <div align="center">
 
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
-
-<img src="https://media1.tenor.com/m/YQLoyk6eFV8AAAAd/sabrina-carpenter-kiss.gif" width="300"/>
 
 </div>
 
