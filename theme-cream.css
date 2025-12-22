@@ -1,0 +1,59 @@
+:root{
+  --cream-50:#FFFBF1;
+  --cream-100:#FDF6E6;
+  --cream-200:#FAF0D7;
+  --cream-300:#F5E6C6;
+  --cream-400:#EEDDB7;
+  --cream-500:#E6D5A8;
+  --ink-700:#3B3B3B;
+  --ink-900:#2A2A2A;
+  --cream-icon:var(--cream-500);
+}
+
+html,body{
+  background-color:var(--cream-100);
+  color:var(--ink-900);
+}
+
+/* Remove visual noise */
+*{ box-shadow:none !important; text-shadow:none !important; }
+
+/* Force a cream monochrome UI palette (non-media elements) */
+:where(*):not(img):not(video):not(canvas):not(iframe):not(svg):not(path):not(rect):not(circle){
+  background-color:var(--cream-100) !important;
+  border-color:var(--cream-300) !important;
+  color:var(--ink-900) !important;
+}
+
+a,button{ color:var(--ink-900) !important; background-color:var(--cream-100) !important; }
+
+hr{ border-color:var(--cream-300) !important; }
+
+input,textarea,select{
+  background-color:var(--cream-50) !important;
+  color:var(--ink-900) !important;
+  border-color:var(--cream-300) !important;
+}
+
+table,th,td{
+  border-color:var(--cream-300) !important;
+  background-color:var(--cream-50) !important;
+  color:var(--ink-900) !important;
+}
+
+/* Icons: recolor inline SVG and font icons to cream */
+svg:not([data-preserve-colors]) [fill]:not([fill="none"]){ fill:var(--cream-icon) !important; }
+svg:not([data-preserve-colors]) [stroke]:not([stroke="none"]){ stroke:var(--cream-icon) !important; }
+svg:not([data-preserve-colors]){ color:var(--cream-icon) !important; }
+
+/* Common font/icon classes (FontAwesome, Heroicons wrappers, etc.) */
+i[class*="icon"], span[class*="icon"], .icon, [class^="icon-"], [class*=" icon-"]{
+  color:var(--cream-icon) !important;
+}
+
+/* Raster/SVG <img> icons approximation to cream via filter */
+img.icon, [class*="icon"] > img, img[alt*="icon" i], img[aria-hidden="true"]{
+  filter: sepia(1) saturate(0.35) hue-rotate(340deg) brightness(1.03) !important;
+}
+
+::selection{ background:var(--cream-300); color:var(--ink-900); }
