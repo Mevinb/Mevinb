@@ -97,7 +97,9 @@
 
 ## 😂 Random Meme
 <div align="center">
-  <img src="https://api.memegen.link/images/random.png" width="700" alt="Random meme"/>
+  <!-- MEME_SECTION_START -->
+  <img src="https://api.memegen.link/images/buzz/it_works/now_fixed.png" width="700" alt="Random meme"/>
+  <!-- MEME_SECTION_END -->
   
 </div>
 
@@ -109,5 +111,7 @@
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
   
-  <img src="https://api.memegen.link/images/random.png" width="300" alt="Random meme"/>
+  <!-- FOOTER_MEME_START -->
+  <img src="https://api.memegen.link/images/buzz/it_works/now_fixed.png" width="300" alt="Random meme"/>
+  <!-- FOOTER_MEME_END -->
 </div>
