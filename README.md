@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:7928CA,100:FF6B6B&text=Mevinb&fontAlignY=35&fontColor=ffffff&reversal=true">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:7928CA,100:FF6B6B&text=Mevinb&fontAlignY=35&fontColor=ffffff&reversal=true" alt="header"/>
-  </picture>
+  <img src="https://global.discourse-cdn.com/mcneel/uploads/default/original/3X/8/6/86bdf2564aed2fc63ac88505f72510e1390fe96c.gif" width="100%" alt="header"/>
 </div>
 
 <div align="center">
