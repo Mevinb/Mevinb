@@ -1,139 +1,130 @@
-<div align="center">
-  <img src="https://global.discourse-cdn.com/mcneel/uploads/default/original/3X/8/6/86bdf2564aed2fc63ac88505f72510e1390fe96c.gif" width="100%" alt="header"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=700&color=7928CA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Scalable+Systems+Architect;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mevin-benty-17305a322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/mevinb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mevinn._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:mevinbenty507@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://youtube.com/@mevinb"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-qb7702-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</div>
-
-<br>
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> About Me
-
-```yaml
-name: Mevin Benty
-location: Earth 🌍
-focus: Full Stack Development
-passions:
-  - Building scalable web applications
-  - Solving real-world problems with code
-  - Exploring new technologies
-philosophy: "Learn. Build. Ship. Repeat."
-```
-
-<br>
-
-## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Stack
-
-<details open>
-<summary><b>🖥️ Languages & Frameworks</b></summary>
-<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,cpp,html,css" />
+  <img src="assets/profile/hero.svg" width="100%" alt="Mevin Benty. Software, from interface to engine. An animated orbital schematic at the intersection of AI, desktop and web." />
 </p>
-</details>
 
-<details open>
-<summary><b>🗄️ Databases & Cloud</b></summary>
-<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,nginx,aws,gcp,redis" />
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#the-workbench">The workbench</a> &nbsp; / &nbsp;
+  <a href="mailto:mevinbenty507@gmail.com">Start a conversation ↗</a>
 </p>
-</details>
 
-<details open>
-<summary><b>🔧 Tools & Workflow</b></summary>
+I'm **Mevin Benty**. I build across local AI, desktop software, and the web. I like getting underneath the interface: the inference pipeline, the playback engine, the tools that make a product work.
+
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,linux,bash" />
-</p>
+
+## Selected work
+
+<a href="https://github.com/Mevinb/Reactor-X"><img src="assets/profile/reactor.svg" width="100%" alt="01 — ReactorX. Local image processing. Python, ONNX and Gradio. Explore the source." /></a>
+
+<details>
+<summary><b>Inside ReactorX</b> — detection to the final blend</summary>
+
+A local image-processing application with face detection, alignment, identity processing, optional restoration, color matching, and boundary blending. Built around a pipeline you can run on your own machine.
+
+**Python · ONNX · Gradio**
+
+[Explore the pipeline ↗](https://github.com/Mevinb/Reactor-X)
+
 </details>
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+<a href="https://github.com/Mevinb/mediaplayer"><img src="assets/profile/mediahub.svg" width="100%" alt="02 — MediaHub. Your library, on your machine. Python, PyQt6, libVLC and SQLite. Explore the source." /></a>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mevinb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Mevinb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<details>
+<summary><b>Inside MediaHub</b> — one library for photos, video, and music</summary>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mevinb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
-</div>
+A Linux media suite with shared playback, persistent queues, photo editing, library search, and optional local OCR and face grouping. Built for Ubuntu, with native media controls.
+
+**Python · PyQt6 · libVLC · SQLite**
+
+[Explore the application ↗](https://github.com/Mevinb/mediaplayer)
+
+</details>
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Activity
+<a href="https://github.com/Mevinb/arc-angel"><img src="assets/profile/arc.svg" width="100%" alt="03 — ARC. Models connected to tools. A personal AI assistant with routing, browser tools and memory. Explore the source." /></a>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mevinb&bg_color=0d1117&color=7928CA&line=FF6B6B&point=ffffff&area=true&area_color=7928CA&hide_border=true&custom_title=Code%20Activity%20Graph" width="100%"/>
-</div>
+<details>
+<summary><b>Inside ARC</b> — a model is only the beginning</summary>
 
-<br>
+A personal AI assistant connecting model routing, browser and computer tools, email triage, and persistent memory. Uses an OpenAI-compatible gateway, with permission gates for sensitive actions.
 
-## 🎯 Weekly Coding Stats
+**Python · SQLite · Playwright · Model routing**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mevinb&theme=tokyonight&hide_border=true&layout=compact" width="50%"/>
-</div>
+[Explore the architecture ↗](https://github.com/Mevinb/arc-angel)
 
-<br>
-
-## 🔥 Random Meme
-
-<div align="center">
-  <!-- MEME_SECTION_START -->
-  <img src="https://api.memegen.link/images/buzz/it_works/now_fixed.png" width="600" alt="Random meme"/>
-  <!-- MEME_SECTION_END -->
-</div>
+</details>
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
-</div>
+<a href="https://github.com/Mevinb/iqooo"><img src="assets/profile/pathwise.svg" width="100%" alt="04 — PATHWISE. Different futures, made tangible. An Expo and React Native career-pathway UI prototype. Explore the source." /></a>
+
+<details>
+<summary><b>Inside PATHWISE</b> — explore the what-ifs</summary>
+
+A career-pathway UI prototype with branching conversations, route comparisons, and reversible what-if scenarios. Uses local sample data and deterministic logic; it is a prototype, not a live advisory service.
+
+**TypeScript · React Native · Expo**
+
+[Explore the prototype ↗](https://github.com/Mevinb/iqooo)
+
+</details>
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mevinb&label=Profile+Views&color=7928CA&style=for-the-badge&base=0"/>
-</div>
+## The workbench
+
+| Surface | Tools I build with |
+| :--- | :--- |
+| Interfaces | TypeScript, JavaScript, React, Next.js, React Native, Expo |
+| Engines | Python, Node.js, ONNX, PyQt6, libVLC |
+| Infrastructure | SQLite, Docker, Linux, Git, GitHub Actions |
+
+The interesting part is where these meet: a native interface around a local model, a media library around a playback engine, or an agent that can use the tools on your machine.
+
+[Browse all repositories ↗](https://github.com/Mevinb?tab=repositories)
 
 <br>
 
+<details>
+<summary><b>Off duty</b> — music &amp; a little less seriousness</summary>
+
+### On the headphones
+
+<!-- SPOTIFY_START -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <b>Nothing playing right now</b>
 </div>
+<!-- SPOTIFY_END -->
+
+### Intermission
+
+<!-- MEME_SECTION_START -->
+<img src="https://api.memegen.link/images/buzz/it_works/now_fixed.png" width="420" alt="Buzz Lightyear meme: it works, now fixed" />
+<!-- MEME_SECTION_END -->
+
+</details>
 
 <br>
 
-<div align="center">
-  <sub>⭐ From [Mevinb](https://github.com/Mevinb) — Built with ❤️ and lots of ☕</sub>
-</div>
+<a href="mailto:mevinbenty507@gmail.com"><img src="assets/profile/contact.svg" width="100%" alt="Have something interesting in mind? Let's build it. Email Mevin Benty." /></a>
 
-<div align="center">
-  <!-- FOOTER_MEME_START -->
-  <img src="https://api.memegen.link/images/buzz/it_works/now_fixed.png" width="300" alt="Random meme"/>
-  <!-- FOOTER_MEME_END -->
-</div>
+<p align="center">
+  <a href="mailto:mevinbenty507@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mevin-benty-17305a322">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://x.com/mevinb">X</a> &nbsp; / &nbsp;
+  <a href="https://www.instagram.com/mevinn._">Instagram</a> &nbsp; / &nbsp;
+  <a href="https://youtube.com/@mevinb">YouTube</a>
+  <br><sub>Discord · qb7702</sub>
+</p>
+
+<details>
+<summary>How this README is made</summary>
+
+Original vector artwork, CSS animation inside SVG images, native Markdown links, and expandable HTML sections. The illustrations are conceptual diagrams, not product screenshots or live telemetry. Motion respects the browser's reduced-motion preference; every image has a static composition and alternative text.
+
+The artwork lives in this repository. No external rendering service, JavaScript, or embedded website is needed for the design. Regenerate it with `python3 scripts/render_profile.py`. See [the design notes](docs/profile-design.md).
+
+</details>

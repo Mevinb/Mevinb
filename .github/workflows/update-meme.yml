@@ -1,13 +1,10 @@
 name: Update Random Meme
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # daily at 06:00 UTC
   workflow_dispatch:
-  push:
-    paths:
-      - README.md
-      - scripts/update_meme.py
+
+permissions:
+  contents: write
 
 jobs:
   update-meme:
