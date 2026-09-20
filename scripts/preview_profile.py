@@ -10,7 +10,7 @@ args = parser.parse_args()
 root = Path(__file__).resolve().parents[1]
 source = (root / "README.md").read_text().replace("<details>", '<details markdown="1">')
 body = markdown.markdown(source, extensions=["extra", "toc"])
-bg, fg, border, link = ("#ffffff", "#1f2328", "#d1d9e0", "#0969da") if args.light else ("#0d1117", "#d1d9e0", "#3d444d", "#c4f569")
+bg, fg, border, link = ("#ffffff", "#1f2328", "#d1d9e0", "#0969da") if args.light else ("#0d1117", "#d1d9e0", "#3d444d", "#DCE3EC")
 args.output.write_text(f'''<!doctype html><html><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <base href="{root.as_uri()}/"><title>Mevin Benty — profile preview</title>

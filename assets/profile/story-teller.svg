@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Story Teller — Long-form fiction, chapter by chapter.</title>
+<desc id="desc">Original schematic artwork for Mevin Benty's profile. Decorative motion, not live measurements.</desc>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#687382" stroke-opacity=".10"/></pattern>
+<clipPath id="bounds"><rect width="1000" height="300"/></clipPath>
+</defs>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}
+.mono{font-family:'Courier New',monospace;letter-spacing:2px}
+.orbit{transform-origin:750px 300px;animation:orbit 36s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:48s}
+.flow{stroke-dasharray:5 14;animation:flow 12s linear infinite}
+.breathe{animation:breathe 6s ease-in-out infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-190}}
+@keyframes breathe{50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){.orbit,.flow,.breathe{animation:none!important}}
+</style>
+<g clip-path="url(#bounds)"><rect width="1000" height="300" fill="#0B0D10"/><rect x="610" width="390" height="300" fill="url(#grid)"/><path d="M610 0L610 300" stroke="#343B46" /><text x="34" y="43" fill="#B8C0CC" font-size="13" font-weight="400" class="mono">04 / SELECTED WORK</text><text x="32" y="122" fill="#F5F7FA" font-size="65" font-weight="700" letter-spacing="-3">Story Teller</text><text x="35" y="165" fill="#B8C0CC" font-size="21" font-weight="400" >Long-form fiction, chapter by chapter.</text><text x="35" y="252" fill="#B8C0CC" font-size="13" font-weight="400" class="mono">PYTHON / FLASK / FAISS</text><text x="564" y="254" fill="#DCE3EC" font-size="32" font-weight="400" >↗</text><rect x="650" y="62" width="78" height="120" rx="2" fill="#0B0D10" stroke="#687382"/><text x="662" y="87" fill="#DCE3EC" font-size="14" font-weight="400" class="mono">01</text><path d="M662 107L710 107" stroke="#687382" /><path d="M662 121L704 121" stroke="#687382" /><path d="M662 135L710 135" stroke="#687382" /><path d="M662 149L694 149" stroke="#687382" /><rect x="756" y="90" width="78" height="120" rx="2" fill="#0B0D10" stroke="#687382"/><text x="768" y="115" fill="#DCE3EC" font-size="14" font-weight="400" class="mono">02</text><path d="M768 135L816 135" stroke="#687382" /><path d="M768 149L810 149" stroke="#687382" /><path d="M768 163L816 163" stroke="#687382" /><path d="M768 177L800 177" stroke="#687382" /><rect x="862" y="118" width="78" height="120" rx="2" fill="#0B0D10" stroke="#687382"/><text x="874" y="143" fill="#DCE3EC" font-size="14" font-weight="400" class="mono">03</text><path d="M874 163L922 163" stroke="#687382" /><path d="M874 177L916 177" stroke="#687382" /><path d="M874 191L922 191" stroke="#687382" /><path d="M874 205L906 205" stroke="#687382" /><path class="flow" d="M728 120H746V148H756M834 148H851V176H862" fill="none" stroke="#DCE3EC" stroke-width="2"/><text x="645" y="278" fill="#B8C0CC" font-size="12" font-weight="400" class="mono">PLAN → WRITE → REFINE</text></g></svg>

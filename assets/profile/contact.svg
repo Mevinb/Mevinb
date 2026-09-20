@@ -2,7 +2,7 @@
 <title id="title">Let&#x27;s build it — contact Mevin Benty</title>
 <desc id="desc">Original schematic artwork for Mevin Benty's profile. Decorative motion, not live measurements.</desc>
 <defs>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#89927f" stroke-opacity=".10"/></pattern>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#687382" stroke-opacity=".10"/></pattern>
 <clipPath id="bounds"><rect width="1000" height="210"/></clipPath>
 </defs>
 <style>
@@ -17,4 +17,4 @@ text{font-family:Arial,Helvetica,sans-serif}
 @keyframes breathe{50%{opacity:.35}}
 @media(prefers-reduced-motion:reduce){.orbit,.flow,.breathe{animation:none!important}}
 </style>
-<g clip-path="url(#bounds)"><rect width="1000" height="210" fill="#c4f569"/><text x="40" y="45" fill="#101310" font-size="14" font-weight="400" class="mono">THE NEXT INTERESTING THING</text><text x="36" y="124" fill="#101310" font-size="76" font-weight="700" letter-spacing="-4">Let&#x27;s build it.</text><text x="42" y="175" fill="#354427" font-size="20" font-weight="400" >mevinbenty507@gmail.com</text><path d="M830 143L931 42M835 42H931V138" fill="none" stroke="#101310" stroke-width="8"/></g></svg>
+<g clip-path="url(#bounds)"><rect width="1000" height="210" fill="#DCE3EC"/><text x="40" y="45" fill="#0B0D10" font-size="14" font-weight="400" class="mono">THE NEXT INTERESTING THING</text><text x="36" y="124" fill="#0B0D10" font-size="76" font-weight="700" letter-spacing="-4">Let&#x27;s build it.</text><text x="42" y="175" fill="#343B46" font-size="20" font-weight="400" >mevinbenty507@gmail.com</text><path d="M830 143L931 42M835 42H931V138" fill="none" stroke="#0B0D10" stroke-width="8"/></g></svg>

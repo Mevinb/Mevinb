@@ -59,16 +59,16 @@ A personal AI assistant connecting model routing, browser and computer tools, em
 
 <br>
 
-<a href="https://github.com/Mevinb/iqooo"><img src="assets/profile/pathwise.svg" width="100%" alt="04 — PATHWISE. Different futures, made tangible. An Expo and React Native career-pathway UI prototype. Explore the source." /></a>
+<a href="https://github.com/Mevinb/story-teller-"><img src="assets/profile/story-teller.svg" width="100%" alt="04 — Story Teller. Long-form fiction, chapter by chapter. Python, Flask and FAISS. Explore the source." /></a>
 
 <details>
-<summary><b>Inside PATHWISE</b> — explore the what-ifs</summary>
+<summary><b>Inside Story Teller</b> — from premise to chapters</summary>
 
-A career-pathway UI prototype with branching conversations, route comparisons, and reversible what-if scenarios. Uses local sample data and deterministic logic; it is a prototype, not a live advisory service.
+A multi-agent fiction-generation system with planning, writing, consistency checking, and editing; semantic story memory; live-streaming output; and local or cloud model backends.
 
-**TypeScript · React Native · Expo**
+**Python · Flask · FAISS**
 
-[Explore the prototype ↗](https://github.com/Mevinb/iqooo)
+[Explore the story engine ↗](https://github.com/Mevinb/story-teller-)
 
 </details>
 

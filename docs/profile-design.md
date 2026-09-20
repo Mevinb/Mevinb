@@ -1,7 +1,10 @@
 # Profile artwork
 
 An engineering folio: oversized type, an orbital masthead, four project
-schematics, and a lime contact plate. Illustrations represent concepts, not
+schematics, and a silver contact plate. All project panels use near-black
+backgrounds, white type, gray diagram lines, and silver animated accents.
+Story Teller's manuscript diagram represents planning, writing, and revision.
+Colors are centralized in the generator. Illustrations represent concepts, not
 screenshots, performance measurements, or live status.
 
 Edit copy and links in `README.md`. Edit artwork in `scripts/render_profile.py`,
